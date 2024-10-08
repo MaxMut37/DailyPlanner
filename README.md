@@ -1,8 +1,6 @@
-<h1 align="center">Daily Planner> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-Daily Planner
-Приложение для планирования задач
+<h1 align="center">Daily Planner </h1>
+<h3 align="center">Приложение для планирования задач</h3>
+
 Для чего это приложение?
 Что оно может?
 Устройство фронта
