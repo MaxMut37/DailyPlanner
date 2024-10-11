@@ -28,15 +28,3 @@
 #### Profile and Settings:
 ![Profile](link_to_image8) ![Settings](link_to_image9)
 
-## Backend Structure
-
-The backend is written in **C#** using **ASP.NET Core**, and the database is **PostgreSQL**.
-
-## How to Run the Project
-
-### Frontend Setup
-1. Clone the repository.
-2. Navigate to the `frontend` folder.
-3. Install dependencies:
-   ```bash
-   npm install
