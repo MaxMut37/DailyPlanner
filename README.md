@@ -19,13 +19,13 @@
 #### Вход и регистрация:
 ![Login](https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192217.png)![Registration](https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192253.png)
 
+#### Главный экран приложения:
+![Login](https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192339.png)
+![Login](https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192521.png)
 
-https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192253.png
-#### Home Page and Adding Transactions:
-![Home](link_to_image3) ![Add Transaction](link_to_image4) ![Transaction List](link_to_image5)
-
-#### Budget and Goals:
-![Budget](link_to_image6) ![Goals](link_to_image7)
+#### Добавление задач и категорий:
+![Login](https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192358.png)
+![Login](https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192439.png)
 
 #### Profile and Settings:
 ![Profile](link_to_image8) ![Settings](link_to_image9)
