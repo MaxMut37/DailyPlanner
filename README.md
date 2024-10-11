@@ -1,6 +1,7 @@
 <h1 align="center">Daily Planner </h1>
 <h3 align="center">Приложение для планирования задач</h3>
 В нем есть функции создания дел с указанием и созданием их категорий (например, покупки), даты и времени их выполнения, удобный интерфейс с распределением дел по периодам от дня до года, а также вывод статистики по выполнению поставленных задач.
+
 ## Для чего нужен ежедневник?
 
 This application is intended for simplifying personal finance management and tracking goals set for budgets.
