@@ -4,11 +4,11 @@
 
 ## Для чего нужен ежедневник?
 
-This application is intended for simplifying personal finance management and tracking goals set for budgets.
+Это приложение поможет вам распределять свое рабочее и свободное время для его продуктивного использования.
 
-## Features
+## Функционал
 
-### Income and Expense Tracking:
+
 - Add and classify all financial transactions.
 - Support for multi-currency operations.
 - Ability to add tags to transactions.
