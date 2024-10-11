@@ -27,6 +27,6 @@
 ![Login](https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192358.png)
 ![Login](https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192439.png)
 
-#### Profile and Settings:
-![Profile](link_to_image8) ![Settings](link_to_image9)
+#### Меню приложения:
+![Profile](https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192420.png) 
 
