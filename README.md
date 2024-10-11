@@ -17,7 +17,7 @@
 Макет приложения разработан в  [Figma](https://www.figma.com/design/XHgEoEmXRUfZt4wUS6P5va/Untitled?node-id=0-1&node-type=canvas&t=ywY9BueJT9HFTLe0-0)
 
 #### Login and Registration Screens:
-![Login](link_to_image1) ![Registration](link_to_image2)
+![Login](Снимок экрана 2024-10-11 192217.png) ![Registration](link_to_image2)
 
 #### Home Page and Adding Transactions:
 ![Home](link_to_image3) ![Add Transaction](link_to_image4) ![Transaction List](link_to_image5)
