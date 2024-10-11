@@ -16,9 +16,11 @@
 
 Макет приложения разработан в  [Figma](https://www.figma.com/design/XHgEoEmXRUfZt4wUS6P5va/Untitled?node-id=0-1&node-type=canvas&t=ywY9BueJT9HFTLe0-0)
 
-#### Login and Registration Screens:
+#### Вход и регистрация:
 ![Login](https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192217.png))
 
+![Registration](https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192253.png)
+https://github.com/MaxMut37/DailyPlanner/blob/main/Снимок%20экрана%202024-10-11%20192253.png
 #### Home Page and Adding Transactions:
 ![Home](link_to_image3) ![Add Transaction](link_to_image4) ![Transaction List](link_to_image5)
 
