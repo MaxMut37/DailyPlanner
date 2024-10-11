@@ -1,13 +1,7 @@
 <h1 align="center">Daily Planner </h1>
 <h3 align="center">Приложение для планирования задач</h3>
 В нем есть функции создания дел с указанием и созданием их категорий (например, покупки), даты и времени их выполнения, удобный интерфейс с распределением дел по периодам от дня до года, а также вывод статистики по выполнению поставленных задач.
-<h3 align="center">Устройства бэка</h3>
-Бэк написан на C# ASP.NET Core. Для БД выбран PostgreSQL.
-# Expenser
-
-Expenser is a personal finance tracking application designed to simplify financial management and help users achieve their budget goals.
-
-## What is Expenser for?
+## Для чего нужен ежедневник?
 
 This application is intended for simplifying personal finance management and tracking goals set for budgets.
 
