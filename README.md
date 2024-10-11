@@ -8,18 +8,13 @@
 
 ## Функционал
 
-
 - На главной транице все задачи удобно располагаются сгруппированно по периодам.
 - Есть возможность разграничивать задачи по категориям.
 - В приложении есть календарь для наглядности распределения дел.
 
-## Frontend Structure
+## Интерфейс
 
-The application uses the **Ionic Capacitor** platform, allowing us to build PWA and native mobile applications for iOS and Android using **HTML, CSS, and JS**. The frontend framework chosen is **Vue.js** together with the **PrimeVue** component library.
-
-### User Interface Prototype
-
-The interface was designed using **Figma**.
+Макет приложения разработан в  **Figma**.
 
 #### Login and Registration Screens:
 ![Login](link_to_image1) ![Registration](link_to_image2)
