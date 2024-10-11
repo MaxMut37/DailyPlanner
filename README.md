@@ -9,25 +9,9 @@
 ## Функционал
 
 
-- Add and classify all financial transactions.
-- Support for multi-currency operations.
-- Ability to add tags to transactions.
-
-### Budgeting:
-- Visualization of balance changes over time.
-- View transactions by various criteria.
-
-### Goals and Savings:
-- Set financial goals for income and expenses.
-- Track progress towards financial goals.
-
-### Intuitive User Interface:
-- User-friendly navigation and a clear structure.
-- Support for both dark and light themes for better user comfort.
-
-### Cross-platform Support:
-- Available on mobile devices and through the web interface.
-- Data synchronization across all devices.
+- На главной транице все задачи удобно располагаются сгруппированно по периодам.
+- Есть возможность разграничивать задачи по категориям.
+- В приложении есть календарь для наглядности распределения дел.
 
 ## Frontend Structure
 
