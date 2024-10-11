@@ -14,7 +14,7 @@
 
 ## Интерфейс
 
-Макет приложения разработан в  **Figma**.
+Макет приложения разработан в  [Figma]([https://www.example.com](https://www.figma.com/design/XHgEoEmXRUfZt4wUS6P5va/Untitled?node-id=0-1&node-type=canvas&t=ywY9BueJT9HFTLe0-0)).
 
 #### Login and Registration Screens:
 ![Login](link_to_image1) ![Registration](link_to_image2)
